@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="strapstone" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\work\\test\ projects\\job-portal\\API\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
